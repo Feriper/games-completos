@@ -1,0 +1,15 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin: 0;
+    overflow: hidden;
+    background: url('flappyimg/flappy_bird_wallpaper_by_c_n_e_k_d74na6l-fullview.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+#board {
+    display: block;
+    margin: 0 auto;
+    background-image: url("flappyimg/flappybirdbg.png");
+    background-size: 100% 100%;
+}
